@@ -1,0 +1,9 @@
+[common]
+wechatKey = "72bba815-b98d-4fd6-83d2-7a04bb7d669e"
+
+[alert.list]
+sites = ["project.test"]
+
+[project.test]
+accessLog = "/tmp/nginx.access.log"
+limit = 30
