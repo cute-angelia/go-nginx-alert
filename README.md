@@ -1,6 +1,11 @@
 # go-nginx-alert
 nginx 502 status alert
 
+```
+
+go run main.go --config="config.toml"
+
+```
 
 
 ```
